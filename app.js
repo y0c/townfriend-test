@@ -3,7 +3,7 @@
  */
 var client = require("webdriverjs").remote();
 var assert = require("assert");
-var Mocha = require('Mocha');
+var Mocha = require('mocha');
 // create a command the returns the current url and title as one result
 // just to show an example
 
